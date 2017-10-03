@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MbararaMarket1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">varoius foods available for our customers are as follows</string>
+    <string name="describematooke">Matooke of high quality standards can be found with in mbarara cental market with supply from many vendors around the area</string>
+    <string name="describerice">various kind of rice can be found with different sellers who sell them are differenr types depending on the quality of the rice for our estemmed customers to get their best</string>
+
+
+
+</resources>
